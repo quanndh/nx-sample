@@ -13,7 +13,7 @@ export function App() {
 
   return (
     <div>
-      <Text text="Design 1" />
+      <Text text="Design 1 update" />
       <div>
         <p>Share logic Counter</p>
         <button
