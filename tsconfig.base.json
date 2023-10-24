@@ -14,7 +14,11 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {}
+    "paths": {
+      "@design1/*": ["./apps/design1/src/*"],
+      "@nx-sample/components": ["libs/components/src/index.ts"],
+      "@nx-sample/redux": ["libs/redux/src/index.ts"]
+    }
   },
   "exclude": ["node_modules", "tmp"]
 }
