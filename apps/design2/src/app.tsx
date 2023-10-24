@@ -14,7 +14,7 @@ export function App() {
         path="/"
         element={
           <div>
-            <Text text="Design 2" />
+            <Text text="Design 2 update" />
             <div>
               <p>Share logic Counter</p>
               <button
